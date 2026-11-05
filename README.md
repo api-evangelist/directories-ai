@@ -1,4 +1,4 @@
-# directories-ai
+# Directories.ai
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,123 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-directories-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://directories.ai/
+Directories.ai is an AI‑powered directory intelligence platform that enables businesses to create, manage, and expose smart business listings through a Multi‑Channel Publishing (MCP) server. It offers AI‑driven automation, SEO optimization, and integration capabilities, allowing developers to call listings, claims, and analytics via Claude, ChatGPT, Gemini, or local models. The platform emphasizes no AI credits usage and provides robust directory building tools for seamless AI‑augmented content delivery.
+
+**Areas:** AI · Directory · Platform · MCP · Business
+
+## Directories.ai on APIs.io
+
+Everything profiled for Directories.ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/directories-ai/](https://apis.io/providers/directories-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Directories.ai API](https://apis.io/apis/directories-ai/directories-ai-api-2/) — Directories.ai provides a REST API for managing directory listings, categories, and articles.
+- [Directories.ai API](https://apis.io/apis/directories-ai/directories-ai-api/) — Directories.ai API as documented publicly: 4 operations. Contract generated from the documentation by API Evangelist (2026-11-05); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (4)
+
+The data models the API reads and writes.
+
+- [GetDirectoriesResponse](https://apis.io/schemas/directories-ai/directories-ai-get-directories-response/)
+- [PostDirectoriesIdListingsRequest](https://apis.io/schemas/directories-ai/directories-ai-post-directories-id-listings-request/)
+- [PostMcpRequest](https://apis.io/schemas/directories-ai/directories-ai-post-mcp-request/)
+- [PostMcpResponse](https://apis.io/schemas/directories-ai/directories-ai-post-mcp-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Directories Ai Context](https://apis.io/jsonld/directories-ai/directories-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Directories.ai API Rules](https://apis.io/rules/directories-ai/directories-ai-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Directories Ai Domain Security](https://apis.io/security/directories-ai/directories-ai-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Directories Ai Plans Pricing](https://apis.io/plans/directories-ai/directories-ai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://directories.ai/)
+- [Documentation](https://directories.ai/docs)
+- [Getting started](https://directories.ai/docs/getting-started)
+- [API reference](https://directories.ai/docs/api)
+- [Pricing](https://directories.ai/pricing)
+- [Blog](https://directories.ai/blog)
+- [Trust centre](https://directories.ai/trust)
+- [Terms of service](https://directories.ai/terms)
+- [Privacy policy](https://directories.ai/privacy)
+- [GitHub](https://github.com/directoriesai)
+
+## API Evangelist rating
+
+**Kin Score 58.4** — strong · rubric 0.27.0 · scored 2026-11-05
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 47.1 |
+| Contract governance | 79.1 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 58.8 |
+| Access clarity | 81.1 |
+
+**Agent readiness 39.3** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 27.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/directories-ai/](https://apis.io/providers/directories-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Directories.ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/directories-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
